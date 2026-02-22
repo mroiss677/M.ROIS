@@ -5,6 +5,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mroiss677/snake-animation/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 # 👨‍💻 Muhammad Rois
 
 💻 **Web Developer | RPL Teacher**  
