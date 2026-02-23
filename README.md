@@ -71,8 +71,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mroiss677&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=3600" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mroiss677&layout=compact&theme=github_dark&hide_border=true&cache_seconds=3600" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mroiss677&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mroiss677&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages"/>
 </p>
 
 <p align="center">
